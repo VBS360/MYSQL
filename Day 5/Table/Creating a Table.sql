@@ -21,3 +21,5 @@ create table customer
 );
 
 select * from customer;
+
+select * from sales.customer;
